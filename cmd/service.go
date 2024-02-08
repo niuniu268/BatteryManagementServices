@@ -51,7 +51,7 @@ var chargeCmd = &cobra.Command{
 }
 
 var showLowestConsumption = &cobra.Command{
-	Use:   "showLowestConsumption",
+	Use:   "showlowestconsumption",
 	Short: "show the lowest consumption over 24 hours",
 	Long:  `show the lowest household consumption over 24 hours`,
 	Run: func(cmd *cobra.Command, args []string) {
@@ -63,7 +63,7 @@ var showLowestConsumption = &cobra.Command{
 }
 
 var showLowestPrice = &cobra.Command{
-	Use:   "showLowestPrice",
+	Use:   "showlowestprice",
 	Short: "show the lowest price over 24 hours",
 	Long:  `show the lowest household cost over 24 hours`,
 	Run: func(cmd *cobra.Command, args []string) {
@@ -75,7 +75,7 @@ var showLowestPrice = &cobra.Command{
 }
 
 var showTimeStamp = &cobra.Command{
-	Use:   "showTimeStamp",
+	Use:   "showtimestamp",
 	Short: "show the timestamp over 24 hours",
 	Long:  `show the timestamp over 24 hours`,
 	Run: func(cmd *cobra.Command, args []string) {

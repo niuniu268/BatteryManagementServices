@@ -19,6 +19,9 @@
     </option>
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -49,6 +52,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/cmd" />
     </key>
   </component>
