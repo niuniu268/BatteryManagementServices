@@ -10,7 +10,7 @@ Figur 1. U0=1.5V, I=0.2A, Ri=0.3Ohm
 - Ui​=I⋅Ri
 - The circuit is concatenation so that 'I' is consistent.
 - P=I2⋅Ri​
-- P=I2⋅Ri​=(0.2A)2⋅(0.3Ω)=0.04W
+- P=I2⋅Ri​=(0.2A)2⋅(0.3Ω)=0.012W
 
 ## Case study
 
