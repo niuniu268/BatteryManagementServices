@@ -39,6 +39,7 @@ Figur 1. U0=1.5V, I=0.2A, Ri=0.3Ohm
 
 3. Scenario 3
    ![image11](https://github.com/niuniu268/BatteryManagementServices/blob/master/imgs/Screenshot%202024-02-08%20at%2009.34.40.png?raw=true)
+
 | Max Power for the User (kW) | Energy Price Zone | Max PV Production | Daily PV Production | BESS Capacity (kWh) | BESS CH | BESS DIS | EV Battery Capacity (kWh) | EV Battery SoC Morning | EV Battery SoC Evening | Daily Energy from Grid | Daily Energy Cost |
 |------------------------------|-------------------|-------------------|---------------------|----------------------|---------|----------|----------------------------|------------------------|------------------------|------------------------|-------------------|
 | 6.5                          | SE4               | 9.13              | 36.04               | 18.3                 | 17.02   | 14.56    | 65                         | 75.67                  | 30.77                  | 52.22                  | 44.46             |
